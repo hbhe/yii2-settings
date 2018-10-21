@@ -1,0 +1,26 @@
+{
+    "name": "hbhe/yii2-settings",
+    "description": "website key-value parameter settings module",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "extension",
+        "settings",
+        "parameters"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hbhe",
+            "email": "57620133@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2.0.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "\\hbhe\\settings\\": ""
+        }
+    }
+}
